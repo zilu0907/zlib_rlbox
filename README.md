@@ -2,7 +2,7 @@
 
 ## files:
 
-zpipe.c - the example program provided by zlib
+zpipe.c - the example program provided by zlib (original file)
 
 zpipe_noop.c - sandbox zpipe with no-op sandbox without verification
 
