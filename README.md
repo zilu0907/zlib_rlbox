@@ -28,10 +28,14 @@ c++ -std=c++17 zpipe_xxx.c -lz
 
 ./a.out -d < test.txt.z > test2.txt
 
-## compile with cmake
+## compile with cmake：
 
 makedir build
+
 cd build
+
 cmake ..
+
 cmake --build .
+
 
